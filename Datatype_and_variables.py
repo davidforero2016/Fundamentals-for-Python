@@ -2,9 +2,8 @@
 #To present the result of a program in screen, is used the function print(). For instance: 
 print(5)
 
-#DATA TYPES
-#Mainly, Python works with this classes os data: string, int, float, boolean list, tuple, None, dictionary.
-#The function type() hallow to know the class of a data.
+#DATA TYPES: Mainly, Python works with this classes os data: string, int, float, boolean list, tuple, None, dictionary.
+#The function type() hallow to know the class of a data and the function print() allows to present the result in screen.
 #string
 print("Charles Babbage")
 #Int
@@ -21,14 +20,10 @@ print(None)
 #Dictionary (consist of a key-value pair)
 print({"Name":"Charles","Las taname":"Babbage","Age":17,"Hight":1.8,"Married":True})
 
-#VARIABLES
-#Write de variables's name=the value
-#Capital Letters are reserved to constans
+#VARIABLES: Write de variables's name=the value. Capital Letters are reserved to constans
 name="Charles"
 Last_name="Babbage"
 Age,Civil_status=30,"single"
 print(name,Last_name,Age,Civil_status)
 PI=3.1416
 print(PI)
-jajaja jejeje
-jooo
