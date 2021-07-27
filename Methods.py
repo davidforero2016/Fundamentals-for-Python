@@ -1,4 +1,4 @@
-#methods are subroutines that allow us tho have information about variables, or make changes on it. Fir instance, type()
+#Methods are subroutines that allow us tho have information about variables, or make changes on it. Fir instance, type()
 #Here are presented the main methods for strings.
 Example_Variable=("John Benet")
 
